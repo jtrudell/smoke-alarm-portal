@@ -47,7 +47,7 @@ didn't, you might want to add one:
 5. Set up the live config files.  Note that there are multiple files to
 be edited here.
 
-  1. Do `cp config.js.tmpl config.js`. For dev, don't edit the file `config.js`, just leave the placeholders intact and go to step 2. For non-dev,n edit the `config.js` file:
+  1. Do `cp config.js.tmpl config.js`. For dev, don't edit the file `config.js`, just leave the placeholders intact and go to step 2. For non-dev, edit the `config.js` file:
 
         * Update `exports.companyName`,
         `exports.projectName`, `exports.signupEnabled`,`exports.systemEmail`, and
